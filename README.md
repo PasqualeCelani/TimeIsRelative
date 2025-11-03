@@ -18,3 +18,8 @@ Ensure you have Python 3.12 (any modern version should be also ok) installed.
 
 ### Output
 A successful run will result in a new window opening, showing an image identical to the one you see below.
+
+![alt text](https://github.com/PasqualeCelani/TimeIsRelative/blob/main/data/output_img4.png)
+
+In the terminal instead your output must look like: "The time is: 10:9 :)". If this is you case well done!
+
